@@ -1,0 +1,4 @@
+umur = 20
+if umur >= 17: print("Anda sudah cukup umur untuk membuat ktp.")
+else:
+    print("Anda belum cukup umur untuk membuat ktp.")
